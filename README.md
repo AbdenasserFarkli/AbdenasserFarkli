@@ -1,87 +1,86 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:38BDF8&height=200&section=header&text=Abdenasser%20Farkli&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%E2%80%A2%20Morocco&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,60:03120a,100:00FF41&height=230&section=header&text=Abdenasser%20Farkli&fontColor=00FF41&fontSize=52&fontAlignY=40&desc=%3E%20Aspiring%20Software%20Developer%20%E2%80%A2%20Morocco&descColor=C9D1D9&descAlignY=62&descSize=18&animation=twinkling" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+websites+with+HTML%2C+CSS+%26+Tailwind;Writing+logic+in+JavaScript+and+C%2B%2B;Solving+problems+on+LeetCode;Shipping+a+little+every+day" alt="Typing SVG" />
+  <a href="https://github.com/AbdenasserFarkli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+Abdenasser+Farkli;%24+building+web+apps+with+HTML%2C+CSS%2C+Tailwind+%26+JS;%24+learning+C%2B%2B+%7C+data+structures+%26+algorithms;%24+solving+problems+on+LeetCode;%24+shipping+code+every+single+day+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdenasserFarkli&label=Profile%20views&color=0ea5e9&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Morocco-C1272D?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=AbdenasserFarkli&label=PROFILE%20VIEWS&color=00FF41&labelColor=000000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/BASE-MOROCCO-00FF41?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-I work long shifts every day, then spend my evenings learning to code. Consistency is my superpower: I show up daily, commit often, and learn by building real projects with real teammates.
-
-- 🌐 Building responsive websites with **HTML, CSS, Tailwind and JavaScript**
-- 🔭 Learning **C++** (pointers, arrays, control flow) and moving on to recursion, data structures and algorithms
-- 🧩 Practicing problem solving on **LeetCode**
-- 🤝 Working in teams with **pull requests, code reviews and Jira workflows**
-- 🎯 Goal: become an elite programmer, one step at a time
+```js
+const abdenasser = {
+  role: "Aspiring Software Developer",
+  location: "Morocco 🇲🇦",
+  currentFocus: ["Frontend (HTML, CSS, Tailwind, JavaScript)", "C++ & Algorithms"],
+  workEthic: "Full-time job + daily coding after hours",
+  teamwork: ["Pull Requests", "Code Review", "Jira workflows"],
+  goal: "Become an elite programmer, one commit at a time",
+  openTo: ["Collaboration", "Internships", "Junior roles", "Open-source"],
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `> cat skills.txt`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,cpp,git,github,jira&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## `> ls projects/`
 
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
 | 🌸 [**Thimdrine**](https://github.com/AbdenasserFarkli/-Project-Thimdrine) | Landing page for a women's cooperative, deployed on GitHub Pages | `HTML` `CSS` |
 | 🎓 [**Nour Academy**](https://github.com/AbdenasserFarkli/Nour--Academy-Project) | Team project built through pull requests and code review | `JavaScript` |
 | 🗂️ [**work-shop-jira**](https://github.com/AbdenasserFarkli/work-shop-jira) | Team workshop project built with 2 teammates | `CSS` |
-| 🧠 [**LeetCode Solutions**](https://github.com/AbdenasserFarkli/LeetCode-solutions.) | My solutions to coding interview problems | `JavaScript` |
+| 🧠 [**LeetCode Solutions**](https://github.com/AbdenasserFarkli/LeetCode-solutions.) | Solutions to coding interview problems | `JavaScript` |
 
 ---
 
-## 📊 GitHub Stats
+## `> git log --stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdenasserFarkli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdenasserFarkli&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdenasserFarkli&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdenasserFarkli&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdenasserFarkli&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AbdenasserFarkli&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=8B949E&stroke=30363D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdenasserFarkli&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## `> ./connect.sh`
 
 <p align="center">
-  <a href="https://github.com/AbdenasserFarkli"><img src="https://img.shields.io/badge/GitHub-AbdenasserFarkli-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/AbdenasserFarkli"><img src="https://img.shields.io/badge/GitHub-AbdenasserFarkli-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" /></a>
+  <!-- Add your LinkedIn / email badge here -->
 </p>
 
-<p align="center"><i>"A little progress each day adds up to big results."</i></p>
+<p align="center"><i>"Every expert was once a beginner who refused to quit."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0F172A&height=100&section=footer" width="100%" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdenasserFarkli/AbdenasserFarkli/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AbdenasserFarkli/AbdenasserFarkli/output/github-snake.svg" />
-</picture>
+<!-- SNAKE -->
+<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AbdenasserFarkli/AbdenasserFarkli/output/github-snake-dark.svg" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=90&section=footer" width="100%" />
