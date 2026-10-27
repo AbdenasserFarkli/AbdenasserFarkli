@@ -166,3 +166,11 @@ const abdenasser = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:142D4E,100:2563EB&height=120&section=footer" width="100%" alt="Blue footer" />
 </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AbdenasserFarkli/AbdenasserFarkli/output/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Snake Animation"
+  />
+</p>
