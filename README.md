@@ -81,3 +81,7 @@ I work long shifts every day, then spend my evenings learning to code. Consisten
 <p align="center"><i>"A little progress each day adds up to big results."</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0F172A&height=100&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdenasserFarkli/AbdenasserFarkli/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AbdenasserFarkli/AbdenasserFarkli/output/github-snake.svg" />
+</picture>
