@@ -1,9 +1,11 @@
-<h1 align="center">Abdenasser Farkli</h1>
-<p align="center"><strong>Front-End Developer in Training · YouCode (UM6P)</strong></p>
-<p align="center">JavaScript · Responsive Web Design · REST APIs</p>
-<p align="center"><a href="https://www.linkedin.com/in/abdenasser-farkli/">LinkedIn</a> · <a href="#selected-projects">Explore my projects</a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="1180" alt="Abdenasser Farkli — Front-end developer in training at YouCode (UM6P), Morocco">
+</picture>
 
----
+<h1 align="center">Abdenasser Farkli</h1>
+<p align="center"><a href="https://www.linkedin.com/in/abdenasser-farkli/">LinkedIn</a> · <a href="#selected-projects">Explore my projects</a></p>
 
 ## About me
 
@@ -19,8 +21,11 @@ I’m a software development student at YouCode (UM6P) in Morocco. I build respo
 | [**Thimdrine**](https://github.com/AbdenasserFarkli/-Project-Thimdrine) | A multi-page website presenting a cooperative in Nador and its local products. | HTML · CSS |
 | [**Bank Management System**](https://github.com/AbdenasserFarkli/Project-bank-conole-c-) | A console app for managing clients and users, with permissions and file storage. | C++ |
 
-## Skills
+## Current skills
 
-- **Front end** · HTML, CSS, Tailwind CSS, JavaScript, DOM manipulation, responsive design
-- **API integration** · REST APIs, Fetch, Axios, async/await, error handling
-- **Development workflow** · Git, GitHub, Vite, Agile/Scrum
+| Area | Tools and techniques I use |
+| --- | --- |
+| Front end | HTML, CSS, Tailwind CSS, JavaScript, DOM events, responsive layouts |
+| APIs | Fetch, Axios, REST APIs, async/await, loading and error states |
+| Programming fundamentals | C++, structs, vectors, file I/O |
+| Project workflow | Git, GitHub, Vite, Jira |
